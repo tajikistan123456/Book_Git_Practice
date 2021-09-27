@@ -1,2 +1,9 @@
+
 hello world
-create a new project
+
+our second file
+
+this is page 2
+in chapter 1
+
+now we have git enable
