@@ -4,4 +4,4 @@ this our third page
 
 hello world
 
-random text
+random text  commit - совершить
