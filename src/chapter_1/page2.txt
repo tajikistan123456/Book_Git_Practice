@@ -7,3 +7,7 @@ this is page 2
 in chapter 1
 
 now we have git enable
+
+had a good idea, so I come back
+
+this is new text for this page
